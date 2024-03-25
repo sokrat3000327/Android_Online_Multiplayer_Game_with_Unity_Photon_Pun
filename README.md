@@ -4,5 +4,5 @@ and this code enabled on many multiplayer projects.
 
 
 
-the game is up t0 4 players , the first player which get the wanted colors and number of fruits , he will be the winner , and there is 6 levels , 3 for colors
+the game is up to 4 players , the first player which get the wanted colors and number of fruits , he will be the winner , and there is 6 levels , 3 for colors
 and 3 for numbers.
