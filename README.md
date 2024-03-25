@@ -1,6 +1,5 @@
 this is 3d Android online multiplayer game with unity c# using photon pun , 
-this specific game for Autism children to help them learning colors , numbers and enhance their social experience and the competهtion with each others ,
-in this repo you will find all of the code you want to make your unity game as a online multiplayer game , 
+this specific game for Autism children to help them learning colors , numbers and enhance their social experience and the competهtion with each others ,in this repo you will find all of the code you want to make your unity game as a online multiplayer game , 
 and this code enabled on many multiplayer projects.
 
 
